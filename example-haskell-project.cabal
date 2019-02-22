@@ -6,7 +6,7 @@ cabal-version:       2.4
 name:                example-haskell-project
 version:             0.1.0.0
 synopsis:            Example Haskell Project
--- description:
+description:         Example Haskell Project that demostrates how to get a simple project up and running with Circle CI.
 homepage:            https://github.com/haskell-works/example-haskell-project
 -- bug-reports:
 license:             BSD-3-Clause
